@@ -1,0 +1,86 @@
+{
+	"responseData": {
+		"results":[
+			{
+				"unescapedUrl":"http://www.iplaysoft.com/page/1",
+				"title":"testtitle1",
+				"titleNoFormatting":"奥巴马: 叙利亚协议可能影响伊朗核谈判",
+				"location":"",
+				"publisher":"美国之音",
+				"content":"asdfasdfasdf",
+				"publishedDate":"Sun, 15 Sep 2013 12:52:25 -0700",
+				"language":"zh-CN"
+			},
+			{
+				"unescapedUrl":"http://www.iplaysoft.com/page/2",
+				"title":"testtitle1",
+				"titleNoFormatting":"奥巴马: 叙利亚协议可能影响伊朗核谈判",
+				"location":"",
+				"publisher":"美国之音",
+				"content":"asdfasdfasdf",
+				"publishedDate":"Sun, 15 Sep 2013 12:52:25 -0700",
+				"language":"zh-CN"
+			},
+			{
+				"unescapedUrl":"http://www.iplaysoft.com/page/3",
+				"title":"testtitle1",
+				"titleNoFormatting":"奥巴马: 叙利亚协议可能影响伊朗核谈判",
+				"location":"",
+				"publisher":"美国之音",
+				"content":"asdfasdfasdf",
+				"publishedDate":"Sun, 15 Sep 2013 12:52:25 -0700",
+				"language":"zh-CN"
+			},
+			{
+				"unescapedUrl":"http://www.iplaysoft.com/page/4",
+				"title":"testtitle1",
+				"titleNoFormatting":"奥巴马: 叙利亚协议可能影响伊朗核谈判",
+				"location":"",
+				"publisher":"美国之音",
+				"content":"asdfasdfasdf",
+				"publishedDate":"Sun, 15 Sep 2013 12:52:25 -0700",
+				"language":"zh-CN"
+			},
+			{
+				"unescapedUrl":"http://www.iplaysoft.com/page/4",
+				"title":"testtitle1",
+				"titleNoFormatting":"奥巴马: 叙利亚协议可能影响伊朗核谈判",
+				"location":"",
+				"publisher":"美国之音",
+				"content":"asdfasdfasdf",
+				"publishedDate":"Sun, 15 Sep 2013 12:52:25 -0700",
+				"language":"zh-CN"
+			},
+			{
+				"unescapedUrl":"http://www.iplaysoft.com/page/4",
+				"title":"testtitle1",
+				"titleNoFormatting":"奥巴马: 叙利亚协议可能影响伊朗核谈判",
+				"location":"",
+				"publisher":"美国之音",
+				"content":"asdfasdfasdf",
+				"publishedDate":"Sun, 15 Sep 2013 12:52:25 -0700",
+				"language":"zh-CN"
+			},
+			{
+				"unescapedUrl":"http://www.iplaysoft.com/page/4",
+				"title":"testtitle1",
+				"titleNoFormatting":"奥巴马: 叙利亚协议可能影响伊朗核谈判",
+				"location":"",
+				"publisher":"美国之音",
+				"content":"asdfasdfasdf",
+				"publishedDate":"Sun, 15 Sep 2013 12:52:25 -0700",
+				"language":"zh-CN"
+			},
+			{
+				"unescapedUrl":"http://www.iplaysoft.com/page/4",
+				"title":"testtitle1",
+				"titleNoFormatting":"奥巴马: 叙利亚协议可能影响伊朗核谈判",
+				"location":"",
+				"publisher":"美国之音",
+				"content":"asdfasdfasdf",
+				"publishedDate":"Sun, 15 Sep 2013 12:52:25 -0700",
+				"language":"zh-CN"
+			}
+		]
+	}
+}
