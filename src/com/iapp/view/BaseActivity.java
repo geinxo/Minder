@@ -15,6 +15,7 @@ public class BaseActivity extends Activity {
 	protected void finalize() throws Throwable {
 		// TODO Auto-generated method stub
 		super.finalize();
+		$.recycle(null);
 		$ = null;
 	}
 }
